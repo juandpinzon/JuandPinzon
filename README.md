@@ -1,5 +1,5 @@
 <!--Banner-->
- ![image alt](https://github.com/juandpinzon/JuandPinzon/blob/d91e055d54442c23e0d4fed8510d720b61a18b9c/banner.jpeg)
+ ![image alt]()
 
 
 <!--Night Owl image-->
