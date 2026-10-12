@@ -26,7 +26,7 @@
 
 [![LinkedIn](por poner)
 
-[![ArtStation]([](https://www.artstation.com/rovidi))
+[![ArtStation]((https://www.artstation.com/rovidi))
 
 [![Portfolio](Por poner)
 <!--Profile Count Badge-->
