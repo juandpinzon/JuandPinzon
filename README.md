@@ -12,7 +12,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">proxima info. </p>
 
 -- 🎓 **Currently studying:** 3D Animation, Games & Interactive Environments.
 - 🎨 **Focus Areas:** 3D Modeling, Environment Design & Real-Time Assets.
