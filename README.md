@@ -1,5 +1,5 @@
 <!--Banner-->
-![ Banner Image](https://imgur.com/a/1DhHVxV]
+![ Banner Image](]
 
 <!--Night Owl image-->
 <div>
