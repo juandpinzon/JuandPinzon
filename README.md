@@ -26,7 +26,7 @@
 
 [![LinkedIn](por poner)
 
-[![ArtStation](https://www.artstation.com/rovidi))
+[![ArtStation](https://img.shields.io/badge/ArtStation-131921?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/rovidi)
 
 [![Portfolio](Por poner)
 <!--Profile Count Badge-->
