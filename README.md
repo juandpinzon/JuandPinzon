@@ -19,7 +19,7 @@
 - 🎨 **Focus Areas:** 3D Modeling, Environment Design & Real-Time Assets.
 - 🛠️ **Tools & Tech:** Blender | Unity | 
 - 🚀 **Goals:** Always learning, building, and exploring new interactive projects.
-- 📫 **How to reach me:** [your-email@example.com](mailto:your-email@example.com)
+- 📫 **How to reach me:** [juand.pinzon1224@gmail.com](mailto:your-email@example.com)
 
 ---
 
